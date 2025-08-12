@@ -40,5 +40,5 @@ Additional analysis pipelines can be found in interface_analysis.ipynb
 interface_analysis.ipynb will output potential bonds within each CDR3β:epitope pair, visualizations can be produced using ChimeraX and the indicicies of both the peptide and CDR3β using the following commands (use relabeled .pdbs):  
 `select /A:(peptide indicies) | /B:(CDR3β indicies)`  
 `hbonds /A:376-384 restrict /B:986-998 reveal true showDist true`  
-
-  ![Candidate sequence identified using workflow in interface_analysis.ipynb, visualized using commands above.](images/gen5_scp-chain_105 H bond.png)
+  
+![Candidate sequence identified using workflow in interface_analysis.ipynb, visualized using commands above.](images/gen5_scp-chain_105.png)
