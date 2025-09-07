@@ -6,4 +6,4 @@ Needlemen script can be found in [here](tcrdock/scripts/rmsd.ipynb) to align gen
 RMSD and interface analysis scripts can also be found [here](tcrdock/scripts/rmsd.ipynb)
 
 ### TCRDock
-See (tcrdock/scripts/rmsd.ipynb)
+[More documentation here](tcrdock/)
